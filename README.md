@@ -3,4 +3,4 @@ hello-world
 
 my first repository
 
-I love :coffee:, :BigBangTheory:, and :book:
+I love :coffee:, :computer:, and :book:
